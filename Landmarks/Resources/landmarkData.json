@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Beirut",
+        "category": "City",
+        "city": "Beirut",
+        "state": "Beirut Governate",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Lebanon",
+        "coordinates": {
+            "longitude": 35.495480,
+            "latitude": 33.888630
+        },
+        "description": "Beirut is the capital and largest city of Lebanon. As of 2014, Greater Beirut has a population of 2.5 million, which makes it the third-largest city in the Levant region and the thirteenth-largest in the Arab world. The city is situated on a peninsula at the midpoint of Lebanon's Mediterranean coast. \n\nPlaces to go: \n* Raouche \n* Zaytuna Bay \n* Downtown Beirut",
+        "imageName": "beirut"
+    },
+    {
+        "name": "El Gouna",
+        "category": "City",
+        "city": "El Gouna",
+        "state": "Egypt",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "El Gouna",
+        "coordinates": {
+            "longitude": 33.6511,
+            "latitude": 27.4025
+        },
+        "description": "El Gouna is a resort town on the Red Sea Riviera in Egypt. It's known for its beaches, water sports, and affordability!",
+        "imageName": "elgouna"
+    },
+    {
+        "name": "Harissa",
+        "category": "City",
+        "city": "Beirut",
+        "state": "Keserwan-Jbeil",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lebanon",
+        "coordinates": {
+            "longitude": 35.6529,
+            "latitude": 33.9803
+        },
+        "description": "Harissa-Daraoun is a municipality that consists of two villages, Harissa and Daraoun, in the Keserwan District of the Keserwan-Jbeil Governorate of Lebanon. \n\nPlaces to go: \n* Our Lady of Lebanon \n* Amar Harissa ",
+        "imageName": "harissa"
+    },
+    {
+        "name": "Sharm El Sheikh",
+        "category": "City",
+        "city": "Sharm El Sheikh",
+        "state": "Sharm El Sheikh_",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Egypt",
+        "coordinates": {
+            "longitude": 34.3618,
+            "latitude": 27.9654
+        },
+        "description": "Sharm El Sheikh is a popular resort destination in Egypt. It's located in the southern Sinai Peninsula and is known for its beaches and it different water activities!",
+        "imageName": "sharmelsheikh"
+    },
+    {
+        "name": "Cairo",
+        "category": "City",
+        "city": "Cairo",
+        "state": "Cairo",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Egypt",
+        "coordinates": {
+            "longitude": 31.2357,
+            "latitude": 30.0444
+        },
+        "description": "Cairo, Egypt’s sprawling capital, is set on the Nile River. At its heart is Tahrir Square and the vast Egyptian Museum, a trove of antiquities including royal mummies and gilded King Tutankhamun artifacts. ",
+        "imageName": "cairo"
+    },
+    {
+        "name": "Sour",
+        "category": "City",
+        "city": "Sour",
+        "state": "Janoub",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Lebanon",
+        "coordinates": {
+            "longitude": 35.2038,
+            "latitude": 33.2705
+        },
+        "description": "Tyre is a city in Lebanon, one of the oldest continually inhabited cities in the world, though in medieval times for some centuries by just a tiny population. \n\nPlaces to go: \n* Sour Beach \n* Chops/Sicilla \n* Sour Rest House \n* La Playa \n* Turquoise Beach",
+        "imageName": "sour"
+    },
+    {
+        "name": "Alexandria",
+        "category": "City",
+        "city": "Alexandria",
+        "state": "Alexandria",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Egypt",
+        "coordinates": {
+            "longitude": 29.9187,
+            "latitude": 31.2001
+        },
+        "description": "Alexandria, Egypt is a city with a rich history and many ruins that span the classical world. Some say it's a living museum with Greco-Roman landmarks, sandy beaches, and old-world cafes.",
+        "imageName": "alexandria"
+    },
+    {
+        "name": "Jeita Grotto",
+        "category": "City",
+        "city": "Beirut",
+        "state": "Beirut Governorate",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lebanon",
+        "coordinates": {
+            "longitude": 35.4335,
+            "latitude": 33.1205
+        },
+        "description": "The Jeita Grotto is a system of two separate, but interconnected, karstic limestone caves spanning an overall length of nearly 9 kilometres. The caves are situated in the Nahr al-Kalb valley within the locality of Jeita, 18 kilometres north of the Lebanese capital Beirut. This is the main site for Jeita! I definitely recommend going!",
+        "imageName": "jeita"
+    },
+    {
+        "name": "Aswan",
+        "category": "City",
+        "city": "Aswan",
+        "state": "Aswan",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Egypt",
+        "coordinates": {
+            "longitude": 32.8998,
+            "latitude": 24.0889
+        },
+        "description": "Aswan, Egypt is a city with many attractions for tourists. It's known for its View of the Nile, Archaeological sites, and Peaceful atmosphere.",
+        "imageName": "aswan"
+    },
+    {
+        "name": "Jbeil",
+        "category": "City",
+        "city": "Jbeil",
+        "state": "Keserwan-Jbeil Governorate",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lebanon",
+        "coordinates": {
+            "longitude": 35.6519,
+            "latitude": 34.1230
+        },
+        "description": "Byblos, also known as Jebeil, Jbeil or Jubayl, is a city in the Keserwan-Jbeil Governorate of Lebanon. It is believed to have been first occupied between 8800 and 7000 BC and continuously inhabited since 5000 BC, making it one of the oldest continuously inhabited cities in the world. \n\nPlaces to go: \n* Saint Charbel Church \n*The Crusader Castle \n*Byblos Harbour \n* El-Houssami House",
+        "imageName": "jbeil"
+    },
+    {
+        "name": "Giza",
+        "category": "City",
+        "city": "Giza",
+        "state": "Giza",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Egypt",
+        "coordinates": {
+            "longitude": 31.2089,
+            "latitude": 30.0131
+        },
+        "description": "Giza is a city in Egypt located on the western bank of the Nile River. It's the third-largest city in Egypt, after Cairo and Alexandria. Giza is famous for being the location of the Giza Plateau, which includes some of the world's most impressive ancient monuments.",
+        "imageName": "giza"
+    },
+    {
+        "name": "Batroun",
+        "category": "City",
+        "city": "Batroun",
+        "state": "Lebanon",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Batroun, Lebanon",
+        "coordinates": {
+            "longitude": 35.6643,
+            "latitude": 34.2498
+        },
+        "description": "Batroun is a coastal city in northern Lebanon and one of the oldest continuously inhabited cities in the world. It is the capital city of Batroun District. \n\nPlaces to go: \n* White Beach \n* Phoenician Wall \n* Batroun Old Souk ",
+        "imageName": "batroun"
+    }
+]
